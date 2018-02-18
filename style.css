@@ -1,0 +1,36 @@
+/* CSS for Inlämningsuppgift 2 */
+
+body {
+  font-family: Helvetica, sans-serif;
+  padding-left: 20px;
+}
+
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+caption {
+  text-align: left;
+  font-size: 18px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+th {
+  text-align: left;
+  background: gray;
+  color: white;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+  padding-left: 2px;
+}
+
+img {
+  width: 250px;
+}
